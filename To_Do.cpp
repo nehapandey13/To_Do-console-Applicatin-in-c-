@@ -5,9 +5,9 @@
 #include <algorithm>
 using namespace std;
 
-// In this application we are goino create 4 options
+// In this application we are going create 4 options
 /*
-# 1. Add an item15
+# 1. Add an item
 
 # 2. Mark as done
 # 3. View Items
